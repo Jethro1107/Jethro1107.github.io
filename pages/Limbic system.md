@@ -1,0 +1,28 @@
+---
+title: Limbic system
+---
+
+- --
+- dg-publish: true
+- alias:
+- --
+- metadata:
+	- tags: [[HNNS]], [[Neuroanatomy]]
+	- status: #[[Fleeting Notes]]
+- Limbic system
+- The limbic system is a system of various neural components that *regulates emotion, behavior, drive, learning and memory*.
+- Components of the limbic system
+- Gray Matter
+- Hippocampal formation - Hippocampus, denate gyrus, parahippocampal gyrus
+- Cingulate gyrus
+- Subcalosal gyrus
+- Mamillary bodies
+- [[Thalamus#Anterior part|Anterior nucleus of the thalamus]]
+- White matter forming the highways of the limbic system
+- Alveus
+- Fimbrae
+- Fornix
+- Mamillothalamic tract
+- Stria terminalis
+- Learning and memory
+- [[Papez circuit enables repeated hippocampal stimulation for learning and memory]]

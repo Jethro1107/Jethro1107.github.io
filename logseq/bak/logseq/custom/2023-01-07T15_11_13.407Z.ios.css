@@ -1,0 +1,60 @@
+a.tag[data-ref="Fleeting Notes"] {
+  border: 2px solid currentColor;
+  padding: 0 4px;
+  border-radius: 4px;
+  font-weight: 600;
+  line-height: 1.4;
+  font-size: 0.8em;
+}
+
+a.tag[data-ref="Fleeting Notes"]:hover {
+  background-color: var(--ct-block-reference-background-hover);
+}
+a.tag[data-ref="Literature Notes"] {
+  border: 2px solid currentColor;
+  padding: 0 4px;
+  border-radius: 4px;
+  font-weight: 600;
+  line-height: 1.4;
+  font-size: 0.8em;
+}
+
+a.tag[data-ref="Literature Notes"]:hover {
+  background-color: var(--ct-block-reference-background-hover);
+}
+a.tag[data-ref="Permanent Notes"] {
+  border: 2px solid currentColor;
+  padding: 0 4px;
+  border-radius: 4px;
+  font-weight: 600;
+  line-height: 1.4;
+  font-size: 0.8em;
+}
+
+a.tag[data-ref="Permanent Notes"]:hover {
+  background-color: var(--ct-block-reference-background-hover);
+}
+a.tag[data-ref="Reference Notes"] {
+  border: 2px solid currentColor;
+  padding: 0 4px;
+  border-radius: 4px;
+  font-weight: 600;
+  line-height: 1.4;
+  font-size: 0.8em;
+}
+
+a.tag[data-ref="Reference Notes"]:hover {
+  background-color: var(--ct-block-reference-background-hover);
+}
+a.tag[data-ref="Related Notes"] {
+  border: 2px solid currentColor;
+  padding: 0 4px;
+  border-radius: 4px;
+  font-weight: 600;
+  line-height: 1.4;
+  font-size: 0.8em;
+}
+
+a.tag[data-ref="Related Notes"]:hover {
+  background-color: var(--ct-block-reference-background-hover);
+}

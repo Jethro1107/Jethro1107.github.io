@@ -1,0 +1,26 @@
+---
+title: Physiological anatomy of the cerebellum
+---
+
+- --
+- dg-publish: true
+- alias:
+- --
+- metadata:
+	- tags: [[HNNS]], [[Neuroanatomy]], [[Nervous system physiology]]
+	- status: #[[Fleeting Notes]]
+- Physiological anatomy of the cerebellum
+- The cerebellum consists of the cerebellar cortex, deep white matter, and within the white matter, deep (subcortical) cerebellar nuclei.
+- Cerebellar cortex
+- [[The cerebellar cortex consists of granular layer, purkinje layer and molecular layer]].
+- Deep cerebellar nuclei
+- Medially, within the vermis, it consists of **fastigal nucleus**.
+- Lateral, within the intermediate hemisphere, is the **globose nucleus** and the **emboliform nucleus**.
+- Most laterally, within the lateral hemisphere, is the large **denate nucleus**.
+- ![[Pasted image 20221229152903.png|500]]
+- ![[Pasted image 20221229152929.png|500]]
+- Physiological division of the cerebellum
+- Physiological anatomy of the cerebellum divides the cerebellum mainly vertically ([[Cerebellum#Separation of the cerebellum in a vertical axis]]) giving rise to:
+- The vestibulocerebellum
+- The spinocerebellum
+- The cerebrocerebellum
