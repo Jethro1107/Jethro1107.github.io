@@ -3,6 +3,7 @@ status::
 alias::
 
 - ### The middle ear is a box-shaped, air-filled cavity the petrous part of the temporal bone
+  collapsed:: true
 	- The middle ear is an air-filled cavity lined with mucous membrane, located within the petrous part of the temporal bone.
 	- It is shaped like a box, with 6 boundaries: the roof, the floor, the medial wall, the lateral wall, the anterior wall and the posterior wall.
 	- **Roof: Tegmental wall**
