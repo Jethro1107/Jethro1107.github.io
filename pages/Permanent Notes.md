@@ -1,7 +1,13 @@
+- # #IASM
+  collapsed:: true
+	- {{query "IASM"}}
 - # #CPRS
   collapsed:: true
+	- [[CPR29-30 Blood Flow And Blood Pressure]]
+	  id:: 63cf96ff-64eb-4073-9647-f9105a5ad8da
 	- [[CPR65 Pathogenesis of ischaemic heart disease]]
 	  id:: 63bec1e0-81b1-465b-b718-e851155d564d
+- # #GIS
 - # #MSS
   collapsed:: true
 	- ### [[Anatomy of the upper limb]]
@@ -21,6 +27,7 @@
 		- [[Dystrophinopathies  Duchenne muscular dystrophy and Becker muscular dystrophy]]
 			- [[Potential treatment for DMD requires restoration of dystrophin levels in skeletal muscle fibres]]
 - # #HNNS
+  collapsed:: true
 	- ### #Neuroanatomy
 	  collapsed:: true
 		- [[Brainstem]]
@@ -63,7 +70,6 @@
 	  collapsed:: true
 		- #Meningitis
 		  id:: 63b936a8-47fa-4cdc-8515-3ad645b9aa65
-		  collapsed:: true
 			- #[[Clinical Picture]] [[Acute bacterial meningitis can almost always be identified by its classical clinical presentation]]
 				- #[[Diagnosis]] [[Meningitis is diagnosed through abnormal CSF findings when performing a lumbar puncture]]
 				  id:: 63ba2e01-283e-4c38-8067-221c56b1e8b3
@@ -92,9 +98,12 @@
 			- #[[Early identification]] [[ROSIER scale is used for the rapid stroke identification in emergency room setting]]
 			- #[[Cardiac concerns]] [[Because a stroke can cause, or be caused by cardiac diseases, it is generally wise to perform cardiac studies with simple ECG]]
 			- #Reperfusion [[If eligible, reperfusion by intravenous thrombolysis with ateplase is the 1st line treatment for acute ischaemic stroke]]
-	- [[Cerebellum]]
+	- #[[Intracranial tumours]] [[Intracranial tumours are classified into primary intracranial tumours and metastatic tumours, the later being more common]]
 	  collapsed:: true
-		- #Mechanism [[Cerebellar cortex circuitry silences deep cerebellar nuclei and vestibular nuclei]]
+		- #[[Clinical picture]] [[While understanding the sequelae of intracranial tumour is important, it is actually the context of the tumour that informs the clinical picture]]
+		- #[[Primary intracranial tumours]] [[Primary intracranial tumours are classified into two types by cells of origin, tumours of neuroectodermal origin, and tumours arising from other structures within the cranial cavity]]
+			- #Astrocytoma [[Astrocytoma, the most common glioma arising from astrocytes is graded in a way that reflects underlying pathohistology, and gross pathology, where an increase in grade is associated within increasingly grim prognosis]]
+			- #Ependymoma [[Ependymoma, a form of glioma arising from ependymal cells manifests as a mass protruding into the ventricles, resulting in ventricular obstruction]]
 	- ### [[Anatomy of the head and neck]]
 		- #Head [[Cranium]]
 			- [[Neurocranium]]
@@ -193,6 +202,7 @@
 					- #[[Muscles of the auditory tube]] [[Two muscles of mastication also regulate the opening of the auditory tube]]
 			- #[[Facial nerve in the temporal bone]] [[As the facial nerve emerges from the brainstem, it enters the temporal bone, then drops through the stylomastoid foramen]]
 	- ### #[[Somatosensation]]
+	  collapsed:: true
 		- #[[Receptor level]] [[Somatosensory receptors]]
 			- #[[Receptive fields]]
 				- [[Two point discriminatory test demonstrates the effects of varying size of receptive fields and discriminatory touch]]
@@ -211,6 +221,7 @@
 			- [[Pain sensitization]]
 			- [[Pain modulation by 2 pathways]]
 	- ### Special senses
+	  collapsed:: true
 		- #Audition [[Two sound cues are processed in the ears and the brain]]
 			- #[[From outer to inner ear]] [[Sound is transmitted via air transmission through the external ear, and via mechanical conduction through the middle ear into the inner ear]]
 			- #[[Functional anatomy of the cochlea]] [[The cochlea is a system of 3 canals arranged into a snail shape]]
@@ -230,20 +241,20 @@
 				- #[[Lateral geniculate nucleus]] [[The lateral geniculate nucleus of the central visual pathway serves as a relay of visual information between the optic tract and the primary visual cortex]]
 				-
 	- ### #[[Motor system]]
-	  collapsed:: true
 		- [[Motor cortex]]
 			- [[The motor homunculus roughly deleniates a map of repertoires of movement in the primary motor cortex]]
 			- [[Pyramidal system]]
 				- [[From an evolutionarily standpoint, ratio of crossed and uncrossed fibres in the motor system determines how advance the species is]]
 		- [[Cerebellum]]
 			- [[Purkinje cells and deep cerebelar nuclei are normally excited]]
-				- [[Cerebellar cortex circuitry silences deep cerebellar nuclei and vestibular nuclei]]
-					- [[Basket cell and stellate cell cause lateral inhibition of off beam pyramidal cells]]
+				- #Mechanism [[Cerebellar cortex circuitry silences deep cerebellar nuclei and vestibular nuclei]]
+					- #Disinhibition [[Basket cell and stellate cell cause lateral inhibition of off beam pyramidal cells]]
 		- [[Basal ganglia]]
 			- [[The basal ganglia initiates learned motor patterns or coordinates parallel or sequential motor patterns to accomplish purposeful tasks]]
 			- [[Defects in basal ganglia do not cause paralysis, but deficits in initiation, pattern, speed and rhythm.]]
 - #[[Diagnosis through tests]] [[Diagnosis is the process of determining the health status and the factors for producing it with the application of tests examinations or other procedures]]
 - ### #Zettlekasten [[The Zettlekasten is a simple, yet durable system that enables us to collect, connect, retrieve and produce ideas]]
+  collapsed:: true
 	- #[[Fundamental unit]] [[Like neurons of the nervous system, the permanent note is the fundamental unit of knowledge work]]
 		- #Emergence [[While a Zettlekasten emphasises on the atomicity of its functional unit, the permanent note, it’s true power lies in its ability for the emergence of structure, enabling mere concepts to coalesce into theories]]
 			- #[[External scaffolding]] [[The slip-box and all its existing dialogues provide external scaffolding for us, freeing up cognitive space to creatively place our newly crafted permanent notes in all potential context]]
