@@ -6,6 +6,7 @@ alias:
 ---
 
 - # Thalamus
+  collapsed:: true
 	- The thalamus is a part of the larger diencephalon.
 	- ### General appearance of the thalamus
 	  collapsed:: true
