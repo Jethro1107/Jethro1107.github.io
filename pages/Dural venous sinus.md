@@ -10,7 +10,8 @@ title: Dural venous sinus
 	- status: #[[Fleeting Notes]]
 - Dural venous sinus
 - Dural venous sinus are found within [[Dural folds are present with the cranial meninges|Dural folds]], and is responsible for receiving venous blood from cerebral veins, and [[Cerebrospinal fluid pathway#Reabsorption|Reabsorption of CSF]].
-- Superior sagital sinus
+- Superior sagittal sinus
+  id:: 63bd7df6-b06f-4175-8e55-b355ac304e70
 - The superior sagital sinus is found at the upper margins of [[Dural folds are present with the cranial meninges#Falx Cerebri|Falx cerebri]].
 - It receives venous drainage from the **superior cerebral veins**, and drains into the confluence of sinuses, and usually into the **right transverse sinus**.
 - Inferior sagittal sinus

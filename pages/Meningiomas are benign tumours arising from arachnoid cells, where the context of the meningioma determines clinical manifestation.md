@@ -13,5 +13,5 @@ tags:: [[HNNS]], [[pathology]], [[neoplasm]]
 			- ![image.png](../assets/image_1674614116653_0.png){:height 360, :width 428}
 	- **Sites of meningiomas**
 		- Meningiomas can develop:
-			- In the parasagittal space (either side of the
+			- In the parasagittal space (either side of the ((63b385b6-2861-497e-b305-cd72580d967c)), compressing on the walls of the
 		-
