@@ -5,4 +5,7 @@ tags:: [[HNNS]], [[pathology]], [[neoplasm]]
 	- **Gross pathology of meningiomas**
 		- Meningiomas are generally **well-circumscribed**, and **lobulated**.
 		- Hence, surgical resection is generally viable, which allows for good prognosis.
+		- ![image.png](../assets/image_1674614003244_0.png){:height 339, :width 408}
+	- **Histopathology of meningiomas**
+		-
 		-
