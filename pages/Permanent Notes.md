@@ -100,11 +100,12 @@
 			- #Reperfusion [[If eligible, reperfusion by intravenous thrombolysis with ateplase is the 1st line treatment for acute ischaemic stroke]]
 	- #[[Intracranial tumours]] [[Intracranial tumours are classified into primary intracranial tumours and metastatic tumours, the later being more common]]
 		- #[[Clinical picture]] [[While understanding the sequelae of intracranial tumour is important, it is actually the context of the tumour that informs the clinical picture]]
+		  id:: 63d00120-3c36-486a-a2c7-15bfd0d06539
 		- #[[Primary intracranial tumours]] [[Primary intracranial tumours are classified into two types by cells of origin, tumours of neuroectodermal origin, and tumours arising from other structures within the cranial cavity]]
 			- Glioma
 				- #Astrocytoma [[Astrocytoma, the most common glioma arising from astrocytes is graded in a way that reflects underlying pathohistology, and gross pathology, where an increase in grade is associated within increasingly grim prognosis]]
 				- #Ependymoma [[Ependymoma, a form of glioma arising from ependymal cells manifests as a mass protruding into the ventricles, resulting in ventricular obstruction]]
-			- #Meningioma
+			- #Meningioma [[Meningiomas are benign tumours arising from arachnoid cells, where the context of the meningioma determines clinical manifestation]]
 	- ### [[Anatomy of the head and neck]]
 	  collapsed:: true
 		- #Head [[Cranium]]
