@@ -10,5 +10,8 @@ tags:: [[HNNS]], [[pathology]], [[neoplasm]]
 		- Histopathology of a meningioma is highly variable, but is characterised by:
 			- **Psammoma bodies**
 			- **Cellular whorls**
-			-
+			- ![image.png](../assets/image_1674614116653_0.png){:height 360, :width 428}
+	- **Sites of meningiomas**
+		- Meningiomas can develop:
+			- In the parasagittal space (either )
 		-
