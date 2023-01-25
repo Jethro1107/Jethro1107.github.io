@@ -19,6 +19,7 @@ tags: [[HNNS]], [[Neuroanatomy]]
 			- [[Dural folds are present with the cranial meninges]].
 		- **Arachnoid mater and the subarachnoid space**
 		  collapsed:: true
+		  id:: 63bd7e1a-10fc-428a-8c15-4cd411af48e9
 			- Arachnoid mater is the middle layer of of the meninges, consisting of trabeculae extending to the underlying **pia mater**.
 			- *The arachnoid mater overlies the subarachnoid space:*
 			  collapsed:: true
