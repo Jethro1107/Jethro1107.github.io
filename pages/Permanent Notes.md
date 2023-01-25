@@ -28,7 +28,6 @@
 			- [[Potential treatment for DMD requires restoration of dystrophin levels in skeletal muscle fibres]]
 - # #HNNS
 	- ### #Neuroanatomy
-	  collapsed:: true
 		- [[Brainstem]]
 		  id:: 63bac860-a4ba-412e-b25a-7f2cefd4c816
 			- [[Medulla]]
@@ -55,6 +54,7 @@
 		- Blood supply
 			- [[Brain circulation]]
 			- [[Dural venous sinus]]
+			  id:: 63d00120-f32b-4f5d-84ba-9b53a72e7adb
 			- [[Circle of Willis]]
 			- #[[Venous drainage of the brain]] [[Dural venous sinus]]
 			  id:: 63b930a9-3538-475f-acdc-060deefaf344
