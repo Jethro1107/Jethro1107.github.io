@@ -14,5 +14,6 @@ tags:: [[HNNS]], [[pathology]], [[neoplasm]]
 	- **Sites of meningiomas determine the clinical manifestation**
 		- Meningiomas can develop:
 			- In the parasagittal space (either side of the ((63b385b6-2861-497e-b305-cd72580d967c)), compressing on the walls of the ((63bd7df6-b06f-4175-8e55-b355ac304e70)).
-			- In the lateral
-		-
+			- In the lateral convexity.
+			- In the base of the brain (suprasellar space, olfactory groove, foramen magnum)
+			-
