@@ -1,0 +1,3 @@
+- ### The common site of tumours differ in children and adults
+	- Roughly 70% of primary CNS tumours of childhood are found infratentorially, in the Posterior cranial fossa.
+	- A similar portion of primary CNS tumour in adults are found supratentorially.
