@@ -9,9 +9,9 @@
 	  id:: 63bec1e0-81b1-465b-b718-e851155d564d
 - # #GIS
 - # #MSS
-  collapsed:: true
 	- ### [[Anatomy of the upper limb]]
 	- ### [[Anatomy of the lower limb]]
+	- ### #Reflex [[Reflex is defined as a rapid, automatic and stereotypical response to a stimuli mediated by a reflex arc, and can be classified in various ways]]
 	- ### [[Pathology of the joint]]
 	  collapsed:: true
 		- #[[Clinical approach]] [[Clinical approach to joint pain]]
@@ -24,6 +24,7 @@
 		- [[Gout]]
 		-
 	- [[Muscular dystrophy]]
+	  collapsed:: true
 		- [[Dystrophinopathies  Duchenne muscular dystrophy and Becker muscular dystrophy]]
 			- [[Potential treatment for DMD requires restoration of dystrophin levels in skeletal muscle fibres]]
 - # #HNNS

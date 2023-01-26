@@ -4,10 +4,8 @@ tags: [[HNNS]], [[Neuroanatomy]]
 ---
 
 - # Cerebral hemisphere
-  collapsed:: true
 	- The cerebral hemisphere is the embryological tenencephalon, and refers to the largest part of the brain. It is comprised of the superficial gray matter, [[Cortex]], the internal masses of gray matter, namely the Striatum of [[Basal ganglia]] (The thalamus is a part of the diencephalon and is not part of the cerebral hemisphere, but a part of the cerebrum).
 	- ### Surface anatomy of the cerebral hemisphere
-	  collapsed:: true
 		- The surface of the cerebral hemisphere is not smooth, but is marked by elevations and grooves called [[Gyri and sulci of the cerebral hemisphere]]. These gyruses and sulci define the [[Lobes of the cerebral hemisphere]], and the important gyri.
 	- ### Organization of the cerebral hemisphere
 	  collapsed:: true
